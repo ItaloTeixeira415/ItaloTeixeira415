@@ -1,4 +1,4 @@
-# Console.WriteLine("Hello, World!")! 👋
+# Console.WriteLine("Hello, World!"); 👋
 
 ## 🚀 About Me 
 Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at ✨PUC Minas✨.
