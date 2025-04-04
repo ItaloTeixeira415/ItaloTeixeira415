@@ -7,7 +7,7 @@ Passionate about technology and software development, I am currently pursuing a 
  float="left">
          <br>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloTeixeira415&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages">
         <br>
     
 
