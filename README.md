@@ -6,14 +6,6 @@ Apaixonado por tecnologia e desenvolvimento de software, estou me graduando em A
 
 - 🔧 Atualmente estou aprendendo **C#** e aprofundando meus conhecimentos em **modularização**.
 - 📚 Estudando desenvolvimento de sistemas e modelagem de processos com **BIZAGI**.
-
-## 🌟 Tecnologias e Ferramentas
-
-- **Linguagens:** C#
-- **Conceitos:** Modularização, estruturação de código
-- **Ferramentas:** Bizagi, GitHub
-
- 
 ## [en] 
 
 Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at ✨PUC Minas✨.
