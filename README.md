@@ -1,4 +1,4 @@
-# Console.WriteLine("Welcome to My Profile!"); 👋
+# Console.WriteLine("Welcome to my Profile!"); 👋
 
 ## 🚀 About Me 
 Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at ✨PUC Minas✨.
