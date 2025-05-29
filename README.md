@@ -6,6 +6,8 @@ Passionate about technology and software development, I am currently pursuing a 
 - 🔧 Currently learning **C#** and deepening my knowledge in **modularization**.
 - 📚 Studying system development and process modeling with **BIZAGI**.
 
+##
+
 <br/> 
 
 <div>
